@@ -5,37 +5,37 @@
 <events>
   <track type="1" name="Dr. B">
     <event>
-      <title>Dr. B Graduates College</title>
+      <title>Grandparents first house</title>
       <date type="start">
-        <year>1993</year>
-        <month>05</month>
+        <year>1995</year>
+        <month>07</month>
         <era>AD</era>
       </date>
       <date type="end">
         <year>1995</year>
-        <month>05</month>
+        <month>07</month>
         <era>AD</era>
       </date>
-      <description>Dr. B graduates from Washington and Jefferson College, and looks ahead to starting grad school at Penn State.</description>
-      <lat>40.174</lat>
-      <lon>-80.2462</lon>
+      <description>This where my grandparents used to live </description>
+      <lat>41.9554</lat>
+      <lon>79.9855</lon>
       <media>https://www.washjeff.edu/wp-content/uploads/oldmain_2018_04-1.jpg</media>
     </event>
     <event>
-      <title>Dr. B works on something</title>
+      <title>The battle of doom</title>
       <date type="start">
-        <year>1990</year>
-        <month>05</month>
-        <era>AD</era>
+        <year>1829</year>
+        <month>08</month>
+        <era>BC</era>
       </date>
       <date type="end">
-        <year>2005</year>
-        <month>05</month>
+        <year>1879</year>
+        <month>12</month>
         <era>AD</era>
       </date>
-      <description>Dr. B works on something that overlaps in time.</description>
-      <lat>42.174</lat>
-      <lon>-80.2462</lon>
+      <description>Two warriors go head to head in a battle of DOOM</description>
+      <lat> 36.1070</lat>
+      <lon>112.1130</lon>
     </event>
   </track>
   <track type="2" name="Roma"> 
@@ -50,8 +50,8 @@
         <era>AD</era>
       </date>
       <description>There is no Year 0 on an AD - BC timeline because the monks who came up with the AD and BC timeline concept were working with Roman numerals and did not have a concept of a 0.</description>
-      <lat>41.9026</lat>
-      <lon>12.4529</lon>
+      <lat>27.1492</lat>
+      <lon>109.4324</lon>
       <media>https://www.livescience.com/45510-anno-domini.html</media>
     </event>
     <event>
@@ -64,9 +64,9 @@
         <year>0054</year>
         <era>BC</era>
       </date>
-      <description>Julius Caesar led the first Roman expedition to Britain, landing on the Kent coast.</description>
-      <lat>51.1789</lat>
-      <lon>1.1713</lon>
+      <description>The day the sky turned black</description>
+      <lat> 40.9575</lat>
+      <lon>80.3236</lon>
     </event>
     
     <event>
@@ -87,7 +87,7 @@
     </event>
   </track>
   
-  <track type="3" name="France">
+  <track type="3" name="Start">
     <event>
       <title>Storming of the Bastille</title>
       <date type="start">
